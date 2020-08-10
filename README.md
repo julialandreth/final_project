@@ -1,9 +1,8 @@
 # Final project for Julia Landreth
 
-Here is some text and I want to create a [link](https://facebook.com)
+## Welcome to my final project!
 
-1. Here is a list
-2. Another 
-3. A third
+### I looked at a dataset that recorded the swearwords in Quentin Tarantion movies. 
 
-![picture of a cat](https://placekitten.com/300/370)
+Here is the data [link](https://github.com/fivethirtyeight/data/tree/master/tarantino)
+
