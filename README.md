@@ -1,6 +1,6 @@
 # Final project for Julia Landreth
 
-### I looked at a dataset that recorded the swearwords in Quentin Tarantion movies. 
+### I looked at a dataset that recorded the swearwords in Quentin Tarantino movies. 
 The dataset only features data from Tarantino's first seven movies, which are:
 * Reservoir Dogs (1992)
 * Pulp Fiction (1994)
