@@ -1,4 +1,4 @@
-# Final project for Julia Landreth
+# Quentin Tarantino's Profane Use of Profanity 
 
 ### I looked at a dataset that recorded the swearwords in Quentin Tarantino movies. 
 
@@ -13,7 +13,7 @@ The dataset only features data from Tarantino's first seven movies, which are:
 * Inglorious Bastards (2009)
 * Django Unchained (2012)
 
-Here is the [link](https://github.com/fivethirtyeight/data/tree/master/tarantino) to the data set I used for this project.
+Here is the [Github data set](https://github.com/fivethirtyeight/data/tree/master/tarantino) I used for this project.
 
 ### The Process
 
@@ -21,7 +21,11 @@ The first thing I did was download the .CSV file of the data, and then I importe
 
 Once the data imported, I was able to make different pivot tables to find out different things about the data set. 
 
-I played around with different pivot tables, using different columns for rows and values. Here are some of my fun findings.
+I played around with different pivot tables, using different columns for rows and values. 
+
+Click on [here](https://docs.google.com/spreadsheets/d/1biHiaZM7RxnbwFX2ONaoTYmukXhc565rKTeeGpsujyQ/edit?usp=sharing) to see my Google sheet. 
+
+Here are some of my fun findings!
 
 ### #1: Using a pivot table and then sorting the data by year, I found that over the years, Tarantino has featured less profanity in his movies. Pulp Fiction was his most profane movie thus far. 
 
@@ -31,6 +35,6 @@ I played around with different pivot tables, using different columns for rows an
 
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/159708750873ffeaf.png "Top 10 Swear Words")
 
-### #3: I 
+### #3: I ran yet another pivot table to find out how long it took for each movie to feature a swear word. I used the "minimum" function to figure this out! 
 
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/15970922494051c12.png "How long until the first swear word")
