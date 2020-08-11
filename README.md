@@ -33,8 +33,18 @@ Here are some of my fun findings!
 
 ### #2: I ran another pivot table to find which words Tarantino uses most, across all his films. 
 
+Interesting!
+
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/159708750873ffeaf.png "Top 10 Swear Words")
 
 ### #3: I ran yet another pivot table to find out how long it took for each movie to feature a swear word. I used the "minimum" function to figure this out! 
 
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/15970922494051c12.png "How long until the first swear word")
+
+### #4: Next, I grabbed some more data of box office revenues for the films. I put this side-by-side with the number of swear words in each movie.
+
+I didn't see a huge connection.
+
+Here's a [link] https://screenrant.com/quentin-tarantinos-movies-ranked-by-box-office-gross-according-to-box-office-mojo/ to that data.
+
+![alt text](https://media.journalism.berkeley.edu/upload/2020/08/15971094927008dc3.png "Is there a connection?")
