@@ -25,6 +25,8 @@ I played around with different pivot tables, using different columns for rows an
 
 Click on [here](https://docs.google.com/spreadsheets/d/1biHiaZM7RxnbwFX2ONaoTYmukXhc565rKTeeGpsujyQ/edit?usp=sharing) to see my Google sheet. 
 
+I made the data visualizations on Data Wrapper.
+
 Here are some of my fun findings!
 
 ### #1: Using a pivot table and then sorting the data by year, I found that over the years, Tarantino has featured less profanity in his movies. Pulp Fiction was his most profane movie thus far. 
@@ -48,3 +50,6 @@ I didn't see a huge connection.
 Here's a [link](https://screenrant.com/quentin-tarantinos-movies-ranked-by-box-office-gross-according-to-box-office-mojo/) to that data.
 
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/15971094927008dc3.png "Is there a connection?")
+
+## That's all for now!
+
