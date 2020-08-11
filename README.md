@@ -45,6 +45,6 @@ Interesting!
 
 I didn't see a huge connection.
 
-Here's a [link] https://screenrant.com/quentin-tarantinos-movies-ranked-by-box-office-gross-according-to-box-office-mojo/ to that data.
+Here's a [link]https://screenrant.com/quentin-tarantinos-movies-ranked-by-box-office-gross-according-to-box-office-mojo/ to that data.
 
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/15971094927008dc3.png "Is there a connection?")
