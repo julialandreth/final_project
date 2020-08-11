@@ -1,5 +1,7 @@
 # Quentin Tarantino's Profane Use of Profanity 
 
+by Julia Landreth
+
 ### I looked at a dataset that recorded the swearwords in Quentin Tarantino movies. 
 
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/1597092627100e2cd.jpg "meme")
@@ -51,5 +53,6 @@ Here's a [link](https://screenrant.com/quentin-tarantinos-movies-ranked-by-box-o
 
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/15971094927008dc3.png "Is there a connection?")
 
-## That's all for now!
+
+### That's all for now!
 
