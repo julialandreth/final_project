@@ -24,16 +24,16 @@ Here is the [Github data set](https://github.com/fivethirtyeight/data/tree/maste
 
 #### The Process
 
-The first thing I did was download the .CSV file of the data, and then I imported the .CSV to a Google sheet. Once the data imported, I was able to make different pivot tables to find out different things about the data set. I played around with different pivot tables, using different columns for rows and values. I made the data visualizations on Data Wrapper. I also ended up finding another data set and adding that to my original dataset in order to look at the box office numbers. 
+The first thing I did was download the .CSV file of the data, and then I imported the .CSV to a Google sheet. I was lucky that the data was already super clean and oragnized. Once the data imported, I was able to make a bunch of different pivot tables to find out different things about the data set. I played around with the different pivot tables, using different columns for rows and values. I made the data visualizations on Data Wrapper. I also ended up finding another data set and adding that to my original dataset in order to look at the box office numbers. 
 
 
 Click on [here](https://docs.google.com/spreadsheets/d/1biHiaZM7RxnbwFX2ONaoTYmukXhc565rKTeeGpsujyQ/edit?usp=sharing) to see my Google sheet. 
 
 Here are some of my fun findings!
 
-#### #1: More Profane?
+#### #1: Over the Years?
 
-Using a pivot table and then sorting the data by year, I found that over the years, Tarantino has featured less profanity in his movies. Pulp Fiction was his most profane movie thus far. I was surprised to see how low the bottom three movies were.
+The original data didn't supply the years of the films, so I decided to add those in myself using parentheses. Then, using a pivot table and sorting the data by year, I found that over the years, Tarantino has featured less profanity in his movies. Pulp Fiction was his most profane movie thus far. I was surprised to see how low the bottom three movies were.
 
 ![alt text](https://media.journalism.berkeley.edu/upload/2020/08/15970870007ef2d7e.png "Profanity over the Years")
 
